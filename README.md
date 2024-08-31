@@ -1,11 +1,24 @@
-Welcome to My GitHub Profile! 👋
-Hi, I'm Felipe Soeiro Lopes! I'm passionate about technology, software development, and solving complex problems through innovative solutions. Currently, I'm studying Analysis and Systems Development, and I work at Tecnocomp, where I provide technological support to clients like Simpar.
 
-About Me
-🎓 Pursuing a degree in Analysis and Systems Development.
-💻 Interested in software development, web development, and database management.
-🚀 Always eager to learn new technologies and improve my skills.
-Get in Touch
-LinkedIn: Felipe Soeiro Lopes
-Portfolio: Visit my Portfolio
-Feel free to explore my repositories and projects, and don't hesitate to reach out if you want to collaborate or just say hello!
+# Bem-vindo ao Meu Perfil no GitHub! 👋
+
+Olá, eu sou **Felipe Soeiro Lopes**! Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas complexos por meio de soluções inovadoras. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas e trabalho na Tecnocomp, onde forneço suporte tecnológico para clientes como a Simpar.
+
+## Sobre Mim
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 💻 Interessado em desenvolvimento de software, desenvolvimento web e gerenciamento de banco de dados.
+- 🚀 Sempre ansioso para aprender novas tecnologias e aprimorar minhas habilidades.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="felps-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="felps-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="felps-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="felps-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/felipesoeirocontato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
