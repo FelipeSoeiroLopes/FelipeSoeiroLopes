@@ -1,7 +1,7 @@
 
 # Bem-vindo ao Meu Perfil no GitHub! 👋
 
-Olá, eu sou **Felipe Soeiro Lopes**! Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas complexos por meio de soluções inovadoras. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas e trabalho na Tecnocomp, onde forneço suporte tecnológico para clientes como a Simpar.
+Olá, eu sou **Felipe Soeiro Lopes**! Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas complexos por meio de soluções inovadoras. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas e trabalho na Simpar, onde forneço suporte tecnológico para clientes.
 
 ## Sobre Mim
 
