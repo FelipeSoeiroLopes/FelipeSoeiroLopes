@@ -10,8 +10,8 @@ Acredito que cada novo desafio é uma oportunidade de **crescimento**, e estou c
 
 ## Sobre Mim
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Interessado em desenvolvimento de software, desenvolvimento web e gerenciamento de banco de dados.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 💻 Interessado em **desenvolvimento de software**, **desenvolvimento web**, **front-end** e **back-end**.
 - 🚀 Sempre ansioso para aprender novas tecnologias e aprimorar minhas habilidades.
 
 <div style="display: inline_block"><br>
