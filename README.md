@@ -1,7 +1,12 @@
 
 # Bem-vindo ao Meu Perfil no GitHub! 👋
 
-Olá, eu sou **Felipe Soeiro Lopes**! Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas complexos por meio de soluções inovadoras. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas e trabalho na Simpar, onde forneço suporte tecnológico para clientes.
+# 💻 Apaixonado por Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas | Futuro Desenvolvedor
+
+Olá! Sou **Felipe Lopes**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com um grande interesse por **programação** e **inovação tecnológica**. Meu objetivo é me tornar um **desenvolvedor** e estou sempre em busca de oportunidades que me permitam evoluir profissionalmente, contribuindo com soluções criativas e eficientes em projetos desafiadores.
+
+Acredito que cada novo desafio é uma oportunidade de **crescimento**, e estou comprometido em aprender e aplicar meus conhecimentos em um ambiente **colaborativo**. Estou entusiasmado para colaborar com empresas e profissionais que compartilham a mesma paixão pela **inovação** e pelo desenvolvimento de **soluções** que façam a diferença.
+
 
 ## Sobre Mim
 
