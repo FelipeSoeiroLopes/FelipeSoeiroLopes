@@ -6,7 +6,7 @@ Olá! Sou **Felipe Lopes**, um apaixonado por **tecnologia** e estudante de **An
 
 ### 🎓 Formação
 - **Cursando**: Análise e Desenvolvimento de Sistemas
-- **Objetivos**: Pós-graduação em Desenvolvimento Fullstack
+- **Objetivos**: Pós-graduação em Desenvolvimento Fullstack e me tornar um desenvolvedor Fullstack
 
 ### 🚀 Interesses
 - Desenvolvimento de software
