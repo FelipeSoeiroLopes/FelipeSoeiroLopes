@@ -43,9 +43,13 @@ Olá! Sou **Felipe Lopes**, um apaixonado por **tecnologia** e estudante de **An
 
 ## 📊 Estatísticas do GitHub
 
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipesoeirolopes&show_icons=true&theme=radical&hide_title=true" alt="Felipe Lopes GitHub Stats" style="border-radius: 10px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border: 2px solid #007BFF;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoeirolopes&layout=compact&theme=radical&hide_title=true" alt="Top Linguagens" style="border-radius: 10px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border: 2px solid #007BFF;">
+<div style="display: flex; justify-content: center; gap: 20px; margin: 15px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipesoeirolopes&show_icons=true&locale=pt-br&title_color=38B2AC&text_color=FFFFFF&bg_color=1A1B27&hide_border=true&custom_title=Minhas%20Estatísticas" 
+       style="width: 45%; border-radius: 10px;" 
+       alt="Estatísticas GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoeirolopes&layout=compact&locale=pt-br&title_color=38B2AC&text_color=FFFFFF&bg_color=1A1B27&hide_border=true&custom_title=Linguagens%20Principais" 
+       style="width: 40%; border-radius: 10px;" 
+       alt="Linguagens mais usadas">
 </div>
 
 
