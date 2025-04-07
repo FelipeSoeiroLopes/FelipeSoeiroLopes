@@ -38,14 +38,6 @@ Olá! Sou **Felipe Lopes**, um apaixonado por **tecnologia** e estudante de **An
   <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </div>
 
----
-
-<!-- Contador de Visitantes -->
-<div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{felipesoeirolopes}/count.svg" /></p> 
-  <br>
-</div>
 
 ---
 
@@ -55,6 +47,16 @@ Olá! Sou **Felipe Lopes**, um apaixonado por **tecnologia** e estudante de **An
   <img src="https://github-readme-stats.vercel.app/api?username=felipesoeirolopes&show_icons=true&theme=radical&hide_title=true" alt="Felipe Lopes GitHub Stats" style="border-radius: 10px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border: 2px solid #007BFF;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoeirolopes&layout=compact&theme=radical&hide_title=true" alt="Top Linguagens" style="border-radius: 10px; width: 48%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border: 2px solid #007BFF;">
 </div>
+
+
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{felipesoeirolopes}/count.svg" /></p> 
+  <br>
+</div>
+
+
 
 ---
 
