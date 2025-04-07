@@ -40,9 +40,12 @@ Olá! Sou **Felipe Lopes**, um apaixonado por **tecnologia** e estudante de **An
 
 ---
 
-## 🐍 Cobrinha dos commits
-
-![Snake animation](https://raw.githubusercontent.com/felipesoeirolopes/felipesoeirolopes/output/github-contribution-grid-snake.svg)
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{felipesoeirolopes}/count.svg" /></p> 
+  <br>
+</div>
 
 ---
 
