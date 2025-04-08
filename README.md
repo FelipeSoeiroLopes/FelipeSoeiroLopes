@@ -45,10 +45,10 @@ Olá! Sou **Felipe Lopes**, um apaixonado por **tecnologia** e estudante de **An
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 15px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=felipesoeirolopes&show_icons=true&locale=pt-br&title_color=38B2AC&text_color=FFFFFF&bg_color=1A1B27&hide_border=true&custom_title=Minhas%20Estatísticas" 
-       style="width: 45%; border-radius: 10px;" 
+       style="width: 49%; border-radius: 10px;" 
        alt="Estatísticas GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoeirolopes&layout=compact&locale=pt-br&title_color=38B2AC&text_color=FFFFFF&bg_color=1A1B27&hide_border=true&custom_title=Linguagens%20Principais" 
-       style="width: 40%; border-radius: 10px;" 
+       style="width: 44%; border-radius: 10px;" 
        alt="Linguagens mais usadas">
 </div>
 
