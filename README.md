@@ -15,7 +15,7 @@
 
 ## 💻 Sobre Mim
 
-<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/devSouza/devSouza/main/assets/coding.gif"/>
+<img align="right" alt="coding" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 Olá! Sou **Felipe Soeiro**, desenvolvedor apaixonado por automação inteligente e inteligência artificial.
 
@@ -117,13 +117,11 @@ Consolidar minha carreira em **Engenharia de IA**, unindo automação, machine l
 
 <div align="center">
 
-<a href="https://github.com/FelipeSoeiroLopes/Spotify-Clone-Sistema-de-Cadastro">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeSoeiroLopes&repo=Spotify-Clone-Sistema-de-Cadastro&theme=tokyonight&hide_border=true"/>
-</a>
-&nbsp;
-<a href="https://github.com/FelipeSoeiroLopes/Sistema-de-Gestao-de-Produtos">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeSoeiroLopes&repo=Sistema-de-Gestao-de-Produtos&theme=tokyonight&hide_border=true"/>
-</a>
+| 🎵 Spotify Clone | 🛍️ Sistema de Gestão |
+|:---:|:---:|
+| Sistema de Cadastro completo | Gestão de Produtos e Estoque |
+| Java Web · JSP · MySQL · MVC | Java · CRUD · Interface moderna |
+| [![Ver](https://img.shields.io/badge/Ver_Projeto-1428A0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSoeiroLopes/Spotify-Clone-Sistema-de-Cadastro) | [![Ver](https://img.shields.io/badge/Ver_Projeto-1428A0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSoeiroLopes/Sistema-de-Gestao-de-Produtos) |
 
 </div>
 
@@ -131,28 +129,27 @@ Consolidar minha carreira em **Engenharia de IA**, unindo automação, machine l
 
 ### 🌟 Mais Projetos
 
-- 🛒 [Lista de Compras](https://github.com/FelipeSoeiroLopes/listadecompras.github.io) — Web interativa e responsiva
-- 🌡️ [API de Temperatura](https://github.com/FelipeSoeiroLopes/TemperaturaAPI) — Integração OpenWeather
-- 🎨 [Portfólio Pessoal](https://github.com/FelipeSoeiroLopes/FelipeSoeiroLopes.github.io) — Site com projetos e trajetória
+| Projeto | Descrição |
+|---|---|
+| 🛒 [Lista de Compras](https://github.com/FelipeSoeiroLopes/listadecompras.github.io) | Web interativa e responsiva |
+| 🌡️ [API de Temperatura](https://github.com/FelipeSoeiroLopes/TemperaturaAPI) | Integração OpenWeather |
+| 🎨 [Portfólio Pessoal](https://github.com/FelipeSoeiroLopes/FelipeSoeiroLopes.github.io) | Site com projetos e trajetória |
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FelipeSoeiroLopes&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=FelipeSoeiroLopes&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FelipeSoeiroLopes&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+</p>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=FelipeSoeiroLopes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSoeiroLopes&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=FelipeSoeiroLopes&theme=tokyonight&hide_border=true" height="170px"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeSoeiroLopes&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
 ---
 
