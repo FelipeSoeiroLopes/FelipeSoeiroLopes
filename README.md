@@ -133,17 +133,11 @@ Me consolidar como **Engenheiro de IA**, unindo automação, desenvolvimento de 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeSoeiroLopes&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=FelipeSoeiroLopes&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeSoeiroLopes&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
 
 ---
 
