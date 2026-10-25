@@ -1,143 +1,137 @@
 <!-- Header animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&animation=fadeIn&text=Felipe%20Soeiro&fontSize=50&fontColor=ffffff&fontAlignY=65&desc=RPA%20Developer%20%7C%20Samsung%20SDS&descAlignY=82&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=210&section=header&animation=fadeIn&text=Felipe%20Soeiro%20Lopes&fontSize=48&fontColor=ffffff&fontAlignY=62&desc=Full%20Stack%20%7C%20RPA%20%7C%20AI%20Engineering&descAlignY=82&descSize=20"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1428A0&size=28&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Felipe+Soeiro+👋;Hi,+I'm+Felipe+Soeiro+👋;Desenvolvedor+RPA+%7C+Samsung+SDS;RPA+Developer+%7C+Samsung+SDS;Python+%7C+JavaScript+%7C+Brity+RPA;Automação+Inteligente+com+IA;AI-Powered+Process+Automation;Pós+IA+para+DEVs+%7C+FIAP+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&color=2563EB&size=26&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+o+Felipe+👋;Hi,+I'm+Felipe+👋;Full+Stack+%7C+RPA+%7C+Engenharia+de+IA;Agentes+de+IA+·+LLMs+·+RAG;Google+Cloud+·+AWS+Bedrock;Java+Spring+Boot+·+Flutter+·+Python;Pós+em+IA+para+DEVs+%7C+FIAP)](https://git.io/typing-svg)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=FelipeSoeiroLopes&color=1428A0&style=for-the-badge&label=Visitas+ao+Perfil)
+<a href="https://felipesoeirolopes.github.io/"><img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/felipesoeirolopes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:felipesoeiro.contato@outlook.com.br"><img src="https://img.shields.io/badge/E--mail-0F172A?style=for-the-badge&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=FelipeSoeiroLopes&color=2563EB&style=for-the-badge&label=Visitas"/>
 
 </div>
 
 ---
 
-## 💻 Sobre Mim
+## 💻 Sobre mim
 
-<img align="right" alt="coding" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-Olá! Sou **Felipe Soeiro**, desenvolvedor apaixonado por automação inteligente e inteligência artificial.
+Sou **Desenvolvedor Full Stack e RPA** com foco em **Engenharia de IA** na **KLB Group / Samsung SDS Latin America**.
 
-Atuo como **Desenvolvedor RPA na Samsung SDS**, onde desenvolvo automações de ponta usando **Python**, **JavaScript** e a plataforma **Brity RPA** — a solução RPA da Samsung para processos corporativos.
+Desenvolvo **agentes de IA totalmente personalizados para o negócio** — com **LLMs**, **RAG** e modelos administrados em **Google Cloud** e **AWS Bedrock** —, automações **RPA** em produção e aplicações **full stack** com **Java Spring Boot** e **Flutter**.
 
-**O que faço no dia a dia:**
+- 🧠 **Agentes de IA** generativa integrados a CRM, APIs e fluxos de automação
+- ☁️ Administração de modelos de IA em **Google Cloud** e **AWS Bedrock**
+- 🤖 Automações com **Brity RPA** integradas a **SAP** e ERPs
+- ☕ APIs REST com **Java Spring Boot** e apps com **Flutter**
+- 📊 Dashboards de monitoramento com **Power BI**
+- ⚡ Automações que reduziram em até **99%** o tempo de processos — de **2 semanas para 7 minutos**
 
-- 🤖 Desenvolvimento de **automações RPA** com Brity RPA
-- 🐍 Scripts e integrações em **Python** e **JavaScript**
-- ⚙️ Integração de **sistemas e APIs**
-- 🗂️ Versionamento com **Git**
-- 🧠 Uso de **IA** para potencializar automações e processos
+> 🇺🇸 *Full Stack & RPA Developer focused on AI Engineering at Samsung SDS Latin America — building business-tailored AI agents with LLMs, RAG, Google Cloud and AWS Bedrock.*
 
 <br clear="right"/>
 
-<div align="center">
-
-✨ ──────────────────────────────────── ✨
-
-</div>
-
 ### 🎯 Missão
 
-Consolidar minha carreira em **Engenharia de IA**, unindo automação, machine learning e sistemas inteligentes para entregar soluções que gerem impacto real nas operações e nas pessoas.
-
-<div align="center">
-
-✨ ──────────────────────────────────── ✨
-
-</div>
+Me consolidar como **Engenheiro de IA**, unindo automação, desenvolvimento de software e sistemas inteligentes para entregar soluções com impacto real nas operações e nas pessoas.
 
 ### 🎓 Formação
 
 | | |
-|---|---|
-| 🎓 | **Análise e Desenvolvimento de Sistemas** — UMC |
-| 🤖 | **Pós em IA para DEVs** — FIAP · mar/2026 → jan/2027 |
-| 📚 | Foco: IA · ML · RPA · Cloud · Automação de Processos |
+|:---:|---|
+| 🤖 | **Pós-graduação em IA para Desenvolvedores** — FIAP · mar/2026 → jan/2027 |
+| 🎓 | **Análise e Desenvolvimento de Sistemas** — UMC · concluído em 2025 |
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
 <div align="center">
 
-### Principais
+### 🧠 IA & Cloud
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img alt="Brity RPA" src="https://img.shields.io/badge/Brity%20RPA-1428A0?style=for-the-badge&logo=samsung&logoColor=white">
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-1E3A8A?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentes_de_IA-7C3AED?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white"/>
 
-<br><br>
+### ⚙️ Back-end, Front-end & Mobile
 
-### Complementares
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+### 🤖 RPA, Dados & DevOps
 
-<br><br>
+<img src="https://img.shields.io/badge/Brity_RPA-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-### DevOps & Dados
+### ✨ IA no dia a dia
 
-<img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-
-<br><br>
-
-### IA & Ferramentas
-
-<img alt="Claude" src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white">
-<img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white">
-<img alt="Cursor" src="https://img.shields.io/badge/Cursor-2D2D2D?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-2D2D2D?style=for-the-badge&logo=cursor&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🤖 RPA & Engenharia de IA
+## 🧠 O que eu faço
 
 <div align="center">
 
 | Área | Atuação |
 |---|---|
-| 🤖 **Brity RPA** | Desenvolvimento, otimização e sustentação de automações na plataforma Samsung |
-| 🐍 **Python & JS** | Scripts de automação, integrações e processamento de dados |
-| 🧠 **Agentes de IA** | Implementação de agentes para automação e suporte a processos |
-| 🔗 **APIs & Sistemas** | Integração entre plataformas corporativas |
-| ⚡ **Ágil** | Scrum/Kanban · Git · Documentação técnica |
+| 🧠 **Engenharia de IA** | Agentes de IA personalizados para o negócio com LLMs, RAG e engenharia de prompts |
+| ☁️ **Cloud de IA** | Administração e integração de modelos em Google Cloud e AWS Bedrock |
+| 🤖 **RPA** | Desenvolvimento, otimização e sustentação de automações com Brity RPA, SAP e ERPs |
+| ☕ **Full Stack** | APIs REST com Java Spring Boot, apps com Flutter e integrações entre sistemas |
+| 📊 **Dados** | Dashboards de monitoramento e KPIs com Power BI |
+| ⚡ **Ágil** | Scrum · Kanban · Jira · Git · documentação técnica |
 
 </div>
 
 ---
 
-## ☕ Projetos em Destaque
+## 🚀 Projetos em destaque
 
 <div align="center">
 
-| 🎵 Spotify Clone | 🛍️ Sistema de Gestão |
+| 🎵 Spotify Clone | 🛍️ Gestão de Produtos |
 |:---:|:---:|
-| Sistema de Cadastro completo | Gestão de Produtos e Estoque |
-| Java Web · JSP · MySQL · MVC | Java · CRUD · Interface moderna |
-| [![Ver](https://img.shields.io/badge/Ver_Projeto-1428A0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSoeiroLopes/Spotify-Clone-Sistema-de-Cadastro) | [![Ver](https://img.shields.io/badge/Ver_Projeto-1428A0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSoeiroLopes/Sistema-de-Gestao-de-Produtos) |
+| Sistema de cadastro completo | Gestão de produtos e estoque |
+| Java Web · JSP · MySQL · MVC | Java 24 · CRUD · MySQL |
+| [![Ver](https://img.shields.io/badge/Ver_projeto-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSoeiroLopes/Spotify-Clone-Sistema-de-Cadastro) | [![Ver](https://img.shields.io/badge/Ver_projeto-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSoeiroLopes/Sistema-de-Gestao-de-Produtos) |
 
 </div>
 
-<br>
-
-### 🌟 Mais Projetos
-
-| Projeto | Descrição |
-|---|---|
-| 🛒 [Lista de Compras](https://github.com/FelipeSoeiroLopes/listadecompras.github.io) | Web interativa e responsiva |
-| 🌡️ [API de Temperatura](https://github.com/FelipeSoeiroLopes/TemperaturaAPI) | Integração OpenWeather |
-| 🎨 [Portfólio Pessoal](https://github.com/FelipeSoeiroLopes/FelipeSoeiroLopes.github.io) | Site com projetos e trajetória |
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🌡️ [Previsão do Tempo](https://github.com/FelipeSoeiroLopes/TemperaturaAPI) | Consumo da API OpenWeather | JavaScript · API |
+| 🛒 [Lista de Compras](https://github.com/FelipeSoeiroLopes/lista-de-compras) | App web interativo e responsivo | HTML · CSS · JS |
+| 🎨 [Portfólio](https://github.com/FelipeSoeiroLopes/FelipeSoeiroLopes.github.io) | Meu site, com animações em Motion | HTML · CSS · JS · Motion |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FelipeSoeiroLopes&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
@@ -153,31 +147,25 @@ Consolidar minha carreira em **Engenharia de IA**, unindo automação, machine l
 
 ---
 
-## 🌟 Soft Skills
+## 🌟 Soft skills
 
 <div align="center">
 
-`Comunicação assertiva` · `Colaboração ágil` · `Pensamento analítico` · `Adaptabilidade` · `Aprendizado contínuo`
+`Comunicação assertiva` · `Colaboração ágil` · `Pensamento analítico` · `Visão de negócio` · `Adaptabilidade` · `Aprendizado contínuo`
 
 </div>
 
 ---
 
-## 🤝 Conecte-se Comigo
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/felipesoeirolopes/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://felipesoeirolopes.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-%230d9488?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:felipesoeiro.contato@outlook.com.br">
-  <img src="https://img.shields.io/badge/Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
+### 🤝 Vamos conversar?
+
+Aberto a oportunidades em **Engenharia de IA**, **Full Stack** e **RPA** — remoto, híbrido ou presencial.
+
+<a href="https://felipesoeirolopes.github.io/"><img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/felipesoeirolopes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:felipesoeiro.contato@outlook.com.br"><img src="https://img.shields.io/badge/E--mail-0F172A?style=for-the-badge&logoColor=white"/></a>
 
 </div>
 
